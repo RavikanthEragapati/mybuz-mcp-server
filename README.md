@@ -3,6 +3,8 @@ mybuz-mcp-server hosts tools that has ability to interact with database to get t
 
 https://github.com/spring-projects/spring-ai-examples/blob/main/model-context-protocol/weather/starter-webflux-server/src/main/java/org/springframework/ai/mcp/sample/server/WeatherService.java
 
+http://localhost:9090/see
+
 
 # Testing and Inspecting MCP server Tools, Resources, Prompts developed
 

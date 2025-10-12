@@ -23,6 +23,7 @@ spring:
 
 #        instructions:
 
-
+server:
+  port: 9090
 
 

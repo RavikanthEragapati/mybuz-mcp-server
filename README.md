@@ -15,3 +15,5 @@ https://github.com/modelcontextprotocol/inspector
 ```
 
 Open Browser and visit http://localhost:6274/
+
+Or you can also use Postman client 
